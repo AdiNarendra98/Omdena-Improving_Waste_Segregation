@@ -9,7 +9,7 @@
 ## Final App Demo
 
 - You can check out the **Final App** Here 👉🏻: [Garbage Classifier V4](https://huggingface.co/spaces/Dinoking/Garbage-Classifier-V4)
-- Check out the **Final Report** Here 👉🏻: [Full Report-Garbage Segregation](https://huggingface.co/spaces/Dinoking/Garbage-Classifier-V4)
+- Check out the **Final Report** Here 👉🏻: [Full-Project-Report](https://github.com/AdiNarendra98/Omdena-Improving_Waste_Segregation/blob/main/reports/Final%20Project%20Presenation%20PPT%20.pdf)
 
 
 
