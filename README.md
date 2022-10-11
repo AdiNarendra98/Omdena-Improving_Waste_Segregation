@@ -8,7 +8,8 @@
 
 ## Final App Demo
 
-- You can check out the Final App Here 👉🏻: [Garbage Classifier V4](https://huggingface.co/spaces/Dinoking/Garbage-Classifier-V4)
+- You can check out the **Final App** Here 👉🏻: [Garbage Classifier V4](https://huggingface.co/spaces/Dinoking/Garbage-Classifier-V4)
+- Check out the **Final Report** Here 👉🏻: [Full Report-Garbage Segregation](https://huggingface.co/spaces/Dinoking/Garbage-Classifier-V4)
 
 
 
