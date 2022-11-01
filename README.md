@@ -6,7 +6,7 @@
 
 - The main purpose of the project is to improve the current waste segregation techniques that are being used using Computer Vision techniques which shall help in cost cutting and help in reaching the UN SDG.
 
-## Final App Demo
+## [Final App Demo](http://cnndigits.pythonanywhere.com/) 
 
 - You can check out the **Final App** Here 👉🏻: [Garbage Classifier V4](https://huggingface.co/spaces/Dinoking/Garbage-Classifier-V4)
 - Check out the **Final Report** Here 👉🏻: [Full-Project-Report](https://github.com/AdiNarendra98/Omdena-Improving_Waste_Segregation/blob/main/reports/Final%20Project%20Presenation%20PPT%20.pdf)
